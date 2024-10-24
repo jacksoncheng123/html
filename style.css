@@ -38,9 +38,9 @@
 }
 
 #block {
-  background-color: green;
+  background-color: brown;
   width: 20px;
-  height: 20px;
+  height: 10px;
   position: relative;
   top: 130px;
   left: 500px;
@@ -64,7 +64,7 @@
 body {
   display: flex;
   flex-direction: column;
-  background-color: #cccccc;
+  background-color: #eddbad;
 }
 
 h1 {
@@ -76,16 +76,21 @@ h1 {
 }
 
 h4 {
+  font-size: 20px;
+  text-align: center;
 
 
 }
 
 em {
+  color: violet;
+  font-weight: bold;
 
 
 }
 
 th, td {
+  padding: 5px;
   
 }
 
